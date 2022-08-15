@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/salihpoovathingalhussainar/Documents/arbitrum/arb_pets/contracts/Adoption.sol": {
+      "lastModificationDate": 1660554499097,
+      "contentHash": "e9f6f4cefe297317e5d319a131599e8e",
+      "sourceName": "contracts/Adoption.sol",
+      "solcConfig": {
+        "version": "0.7.2",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.7.0"
+      ],
+      "artifacts": [
+        "Adoption"
+      ]
+    }
+  }
+}
