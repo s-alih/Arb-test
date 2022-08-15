@@ -29,6 +29,7 @@ const main = async () => {
   // Testing the adopt() function
   console.log('Adopting pet:')
 
+  
   const adoptionEventData = await l2adoption.adopt(expectedPetId)
   expect(adoptionEventData).to.exist
 
